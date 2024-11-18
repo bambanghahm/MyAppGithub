@@ -1,0 +1,2 @@
+# MyApp
+Btc mining app

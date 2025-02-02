@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: CI/CD Pipeline
 
 on:
   push:
@@ -10,28 +10,54 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run tests
+      run: npm test
+
+    - name: Analyze and Update Project
+      run: |
+        npm install -g ts-node
+        ts-node scripts/analyzeProject.ts
+
+    - name: Build project
+      run: npm run build
+      # Adjust this step based on your project's build command
+
+    - name: Deploy to Server
+      env:
+        SERVER_HOST: ${{ secrets.SERVER_HOST }}
+        SERVER_USER: ${{ secrets.SERVER_USER }}
+        SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+      run: |
+        echo "Deploying to server..."
+        ssh -i $SSH_PRIVATE_KEY $SERVER_USER@$SERVER_HOST << 'EOF'
+          # Deployment commands
+          cd /path/to/project
+          git pull origin main
+          npm install
+          npm run start
+        EOF
 
     - name: Set up .NET
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: '5.0'
 
-    - name: Restore dependencies
+    - name: Restore .NET dependencies
       run: dotnet restore
 
-    - name: Build
+    - name: Build .NET project
       run: dotnet build --no-restore
 
-    - name: Run tests
+    - name: Run .NET tests
       run: dotnet test --no-restore --verbosity normal
-
-    - name: Deploy to Azure (example step)
-      env:
-        AZURE_WEBAPP_NAME: 'YOUR_WEBAPP_NAME'
-        AZURE_RESOURCE_GROUP: 'YOUR_RESOURCE_GROUP'
-        AZURE_CREDENTIALS: ${{ secrets.AZURE_CREDENTIALS }}
-      run: |
-        # Add your deployment script here
-        echo "Deploying to Azure..."

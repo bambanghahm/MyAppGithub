@@ -1,0 +1,1563 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1.Test\\MauiApp1.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1.Test\\MauiApp1.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1.Test\\MauiApp1.Test.csproj",
+        "projectName": "MauiApp1.Test",
+        "projectPath": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1.Test\\MauiApp1.Test.csproj",
+        "packagesPath": "C:\\Users\\bahma\\.nuget\\packages",
+        "outputPath": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bahma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1\\MauiApp1.csproj": {
+                "projectPath": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1\\MauiApp1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1\\MauiApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+        "projectName": "MauiApp1",
+        "projectPath": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+        "packagesPath": "C:\\Users\\bahma\\.nuget\\packages",
+        "outputPath": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bahma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-android",
+          "net9.0-ios",
+          "net9.0-maccatalyst",
+          "net9.0-windows10.0.19041.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-android35.0": {
+            "targetAlias": "net9.0-android",
+            "projectReferences": {}
+          },
+          "net9.0-ios18.1": {
+            "targetAlias": "net9.0-ios",
+            "projectReferences": {}
+          },
+          "net9.0-maccatalyst18.1": {
+            "targetAlias": "net9.0-maccatalyst",
+            "projectReferences": {}
+          },
+          "net9.0-windows10.0.19041": {
+            "targetAlias": "net9.0-windows10.0.19041.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0-android35.0": {
+          "targetAlias": "net9.0-android",
+          "dependencies": {
+            "AWS.EncryptionSDK": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "AWSSDK.ApiGatewayV2": {
+              "target": "Package",
+              "version": "[4.0.0-preview.5, )"
+            },
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[4.0.0-preview.5, )"
+            },
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[4.0.0-preview.5, )"
+            },
+            "Amazon.CDK.AWS.ResourceExplorer2": {
+              "target": "Package",
+              "version": "[1.204.0, )"
+            },
+            "AtomicCore.BlockChain.BlockCypherAPI": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Azure.Core": {
+              "target": "Package",
+              "version": "[1.44.1, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.13.2, )"
+            },
+            "Azure.ResourceManager.KubernetesConfiguration": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Azure.ResourceManager.Network": {
+              "target": "Package",
+              "version": "[1.10.0, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.23.0, )"
+            },
+            "Azure.Storage.Common": {
+              "target": "Package",
+              "version": "[12.22.0, )"
+            },
+            "Azure.Storage.Files.Shares": {
+              "target": "Package",
+              "version": "[12.21.0, )"
+            },
+            "AzurePipelinesToGitHubActionsConverter.Core": {
+              "target": "Package",
+              "version": "[1.3.47, )"
+            },
+            "BlockCypher": {
+              "target": "Package",
+              "version": "[1.0.22, )"
+            },
+            "BlockCypher.Api": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "BlockCypher.Net": {
+              "target": "Package",
+              "version": "[0.0.4, )"
+            },
+            "Fable.FirebaseAdmin": {
+              "target": "Package",
+              "version": "[0.5.1, )"
+            },
+            "FeatureFlag.Management.Firebase": {
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "FirebaseAdminCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "FirebaseCoreSDK": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "FirebaseNetAdmin": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "GitHubActionsTestLogger": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "GitHubAppVeyorTest": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "GitHubFlowVersion": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "GithubSharp": {
+              "target": "Package",
+              "version": "[0.0.5.1, )"
+            },
+            "GithubSharp.Core": {
+              "target": "Package",
+              "version": "[0.0.5.1, )"
+            },
+            "GithubSharp.Plugins.All": {
+              "target": "Package",
+              "version": "[0.0.5.1, )"
+            },
+            "GoogleGson": {
+              "target": "Package",
+              "version": "[2.11.0.4, )"
+            },
+            "Hyperledger.Indy.Sdk": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "Kastle.Providers.Bitcoin.BlockCypher": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "KubeOps.KubernetesClient": {
+              "target": "Package",
+              "version": "[9.1.5, )"
+            },
+            "KubernetesClient": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            },
+            "KubernetesClient.Basic": {
+              "target": "Package",
+              "version": "[12.0.16, )"
+            },
+            "KubernetesClient.Classic": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            },
+            "MTK.Blazor.Generators": {
+              "target": "Package",
+              "version": "[0.2.1, )"
+            },
+            "Microsoft.ApplicationInsights.Kubernetes": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.ApplicationInsights.Kubernetes.HostingStartup": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.AzureAD.UI": {
+              "target": "Package",
+              "version": "[7.0.0-preview.6.22330.3, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.AzureAppServicesIntegration": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.Analyzers": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebView.Maui": {
+              "target": "Package",
+              "version": "[9.0.30, )"
+            },
+            "Microsoft.Azure.SignalR": {
+              "target": "Package",
+              "version": "[1.29.0, )"
+            },
+            "Microsoft.Azure.WebJobs.Core": {
+              "target": "Package",
+              "version": "[3.0.41, )"
+            },
+            "Microsoft.Azure.WebJobs.Host.Storage": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Azure": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.FileProviders.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.FileProviders.Composite": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Primitives": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Graphics.Win2D": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.Maui.Controls": {
+              "target": "Package",
+              "version": "[9.0.30, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Azure.Kubernetes.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.Win32.SystemEvents": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Windows.SDK.BuildTools": {
+              "target": "Package",
+              "version": "[10.0.26100.1742, )"
+            },
+            "Microsoft.Windows.SDK.Contracts": {
+              "target": "Package",
+              "version": "[10.0.26100.1742, )"
+            },
+            "Microsoft.WindowsAppSDK": {
+              "target": "Package",
+              "version": "[1.7.250109001-experimental2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "NetDaemon.HassModel.Integration": {
+              "target": "Package",
+              "version": "[24.52.0, )"
+            },
+            "Pepperize.CDK.Github": {
+              "target": "Package",
+              "version": "[0.0.917, )"
+            },
+            "Pulumi.Kubernetes": {
+              "target": "Package",
+              "version": "[4.21.0-alpha.1736909559, )"
+            },
+            "Pushwoosh.Firebase.Xamarin.Droid": {
+              "target": "Package",
+              "version": "[6.7.10, )"
+            },
+            "Rhino.Connectors.Azure": {
+              "target": "Package",
+              "version": "[2023.10.21.2, )"
+            },
+            "Rhino.Connectors.Azure.Text": {
+              "target": "Package",
+              "version": "[2023.10.21.2, )"
+            },
+            "Rhino.Connectors.Azure.WebApi": {
+              "target": "Package",
+              "version": "[16.162.29627.1, )"
+            },
+            "System.Runtime.Caching": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "System.Windows.Extensions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Xamarin.AndroidX.SavedState.SavedState.Ktx": {
+              "target": "Package",
+              "version": "[1.2.1.14, )"
+            },
+            "Xamarin.Google.Crypto.Tink.Android": {
+              "target": "Package",
+              "version": "[1.16.0, )"
+            },
+            "Xamarin.Kotlin.StdLib": {
+              "target": "Package",
+              "version": "[2.0.21.1, )"
+            },
+            "python": {
+              "target": "Package",
+              "version": "[3.14.0-a4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.Android": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        },
+        "net9.0-ios18.1": {
+          "targetAlias": "net9.0-ios",
+          "dependencies": {
+            "AWS.EncryptionSDK": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "AWSSDK.ApiGatewayV2": {
+              "target": "Package",
+              "version": "[4.0.0-preview.5, )"
+            },
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[4.0.0-preview.5, )"
+            },
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[4.0.0-preview.5, )"
+            },
+            "Amazon.CDK.AWS.ResourceExplorer2": {
+              "target": "Package",
+              "version": "[1.204.0, )"
+            },
+            "AtomicCore.BlockChain.BlockCypherAPI": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Azure.Core": {
+              "target": "Package",
+              "version": "[1.44.1, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.13.2, )"
+            },
+            "Azure.ResourceManager.KubernetesConfiguration": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Azure.ResourceManager.Network": {
+              "target": "Package",
+              "version": "[1.10.0, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.23.0, )"
+            },
+            "Azure.Storage.Common": {
+              "target": "Package",
+              "version": "[12.22.0, )"
+            },
+            "Azure.Storage.Files.Shares": {
+              "target": "Package",
+              "version": "[12.21.0, )"
+            },
+            "AzurePipelinesToGitHubActionsConverter.Core": {
+              "target": "Package",
+              "version": "[1.3.47, )"
+            },
+            "BlockCypher": {
+              "target": "Package",
+              "version": "[1.0.22, )"
+            },
+            "BlockCypher.Api": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "BlockCypher.Net": {
+              "target": "Package",
+              "version": "[0.0.4, )"
+            },
+            "Fable.FirebaseAdmin": {
+              "target": "Package",
+              "version": "[0.5.1, )"
+            },
+            "FeatureFlag.Management.Firebase": {
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "FirebaseAdminCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "FirebaseCoreSDK": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "FirebaseNetAdmin": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "GitHubActionsTestLogger": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "GitHubAppVeyorTest": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "GitHubFlowVersion": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "GithubSharp": {
+              "target": "Package",
+              "version": "[0.0.5.1, )"
+            },
+            "GithubSharp.Core": {
+              "target": "Package",
+              "version": "[0.0.5.1, )"
+            },
+            "GithubSharp.Plugins.All": {
+              "target": "Package",
+              "version": "[0.0.5.1, )"
+            },
+            "Hyperledger.Indy.Sdk": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "Kastle.Providers.Bitcoin.BlockCypher": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "KubeOps.KubernetesClient": {
+              "target": "Package",
+              "version": "[9.1.5, )"
+            },
+            "KubernetesClient": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            },
+            "KubernetesClient.Basic": {
+              "target": "Package",
+              "version": "[12.0.16, )"
+            },
+            "KubernetesClient.Classic": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            },
+            "MTK.Blazor.Generators": {
+              "target": "Package",
+              "version": "[0.2.1, )"
+            },
+            "Microsoft.ApplicationInsights.Kubernetes": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.ApplicationInsights.Kubernetes.HostingStartup": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.AzureAD.UI": {
+              "target": "Package",
+              "version": "[7.0.0-preview.6.22330.3, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.AzureAppServicesIntegration": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.Analyzers": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebView.Maui": {
+              "target": "Package",
+              "version": "[9.0.30, )"
+            },
+            "Microsoft.Azure.SignalR": {
+              "target": "Package",
+              "version": "[1.29.0, )"
+            },
+            "Microsoft.Azure.WebJobs.Core": {
+              "target": "Package",
+              "version": "[3.0.41, )"
+            },
+            "Microsoft.Azure.WebJobs.Host.Storage": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Azure": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.FileProviders.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.FileProviders.Composite": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Primitives": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Graphics.Win2D": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.Maui.Controls": {
+              "target": "Package",
+              "version": "[9.0.30, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Azure.Kubernetes.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.Win32.SystemEvents": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Windows.SDK.BuildTools": {
+              "target": "Package",
+              "version": "[10.0.26100.1742, )"
+            },
+            "Microsoft.Windows.SDK.Contracts": {
+              "target": "Package",
+              "version": "[10.0.26100.1742, )"
+            },
+            "Microsoft.WindowsAppSDK": {
+              "target": "Package",
+              "version": "[1.7.250109001-experimental2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "NetDaemon.HassModel.Integration": {
+              "target": "Package",
+              "version": "[24.52.0, )"
+            },
+            "Pepperize.CDK.Github": {
+              "target": "Package",
+              "version": "[0.0.917, )"
+            },
+            "Pulumi.Kubernetes": {
+              "target": "Package",
+              "version": "[4.21.0-alpha.1736909559, )"
+            },
+            "Rhino.Connectors.Azure": {
+              "target": "Package",
+              "version": "[2023.10.21.2, )"
+            },
+            "Rhino.Connectors.Azure.Text": {
+              "target": "Package",
+              "version": "[2023.10.21.2, )"
+            },
+            "Rhino.Connectors.Azure.WebApi": {
+              "target": "Package",
+              "version": "[16.162.29627.1, )"
+            },
+            "System.Runtime.Caching": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "System.Windows.Extensions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "python": {
+              "target": "Package",
+              "version": "[3.14.0-a4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.iOS": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        },
+        "net9.0-maccatalyst18.1": {
+          "targetAlias": "net9.0-maccatalyst",
+          "dependencies": {
+            "AWS.EncryptionSDK": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "AWSSDK.ApiGatewayV2": {
+              "target": "Package",
+              "version": "[4.0.0-preview.5, )"
+            },
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[4.0.0-preview.5, )"
+            },
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[4.0.0-preview.5, )"
+            },
+            "Amazon.CDK.AWS.ResourceExplorer2": {
+              "target": "Package",
+              "version": "[1.204.0, )"
+            },
+            "AtomicCore.BlockChain.BlockCypherAPI": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Azure.Core": {
+              "target": "Package",
+              "version": "[1.44.1, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.13.2, )"
+            },
+            "Azure.ResourceManager.KubernetesConfiguration": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Azure.ResourceManager.Network": {
+              "target": "Package",
+              "version": "[1.10.0, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.23.0, )"
+            },
+            "Azure.Storage.Common": {
+              "target": "Package",
+              "version": "[12.22.0, )"
+            },
+            "Azure.Storage.Files.Shares": {
+              "target": "Package",
+              "version": "[12.21.0, )"
+            },
+            "AzurePipelinesToGitHubActionsConverter.Core": {
+              "target": "Package",
+              "version": "[1.3.47, )"
+            },
+            "BlockCypher": {
+              "target": "Package",
+              "version": "[1.0.22, )"
+            },
+            "BlockCypher.Api": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "BlockCypher.Net": {
+              "target": "Package",
+              "version": "[0.0.4, )"
+            },
+            "Fable.FirebaseAdmin": {
+              "target": "Package",
+              "version": "[0.5.1, )"
+            },
+            "FeatureFlag.Management.Firebase": {
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "FirebaseAdminCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "FirebaseCoreSDK": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "FirebaseNetAdmin": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "GitHubActionsTestLogger": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "GitHubAppVeyorTest": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "GitHubFlowVersion": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "GithubSharp": {
+              "target": "Package",
+              "version": "[0.0.5.1, )"
+            },
+            "GithubSharp.Core": {
+              "target": "Package",
+              "version": "[0.0.5.1, )"
+            },
+            "GithubSharp.Plugins.All": {
+              "target": "Package",
+              "version": "[0.0.5.1, )"
+            },
+            "Hyperledger.Indy.Sdk": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "Kastle.Providers.Bitcoin.BlockCypher": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "KubeOps.KubernetesClient": {
+              "target": "Package",
+              "version": "[9.1.5, )"
+            },
+            "KubernetesClient": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            },
+            "KubernetesClient.Basic": {
+              "target": "Package",
+              "version": "[12.0.16, )"
+            },
+            "KubernetesClient.Classic": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            },
+            "MTK.Blazor.Generators": {
+              "target": "Package",
+              "version": "[0.2.1, )"
+            },
+            "Microsoft.ApplicationInsights.Kubernetes": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.ApplicationInsights.Kubernetes.HostingStartup": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.AzureAD.UI": {
+              "target": "Package",
+              "version": "[7.0.0-preview.6.22330.3, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.AzureAppServicesIntegration": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.Analyzers": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebView.Maui": {
+              "target": "Package",
+              "version": "[9.0.30, )"
+            },
+            "Microsoft.Azure.SignalR": {
+              "target": "Package",
+              "version": "[1.29.0, )"
+            },
+            "Microsoft.Azure.WebJobs.Core": {
+              "target": "Package",
+              "version": "[3.0.41, )"
+            },
+            "Microsoft.Azure.WebJobs.Host.Storage": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Azure": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.FileProviders.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.FileProviders.Composite": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Primitives": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Graphics.Win2D": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.Maui.Controls": {
+              "target": "Package",
+              "version": "[9.0.30, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Azure.Kubernetes.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.Win32.SystemEvents": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Windows.SDK.BuildTools": {
+              "target": "Package",
+              "version": "[10.0.26100.1742, )"
+            },
+            "Microsoft.Windows.SDK.Contracts": {
+              "target": "Package",
+              "version": "[10.0.26100.1742, )"
+            },
+            "Microsoft.WindowsAppSDK": {
+              "target": "Package",
+              "version": "[1.7.250109001-experimental2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "NetDaemon.HassModel.Integration": {
+              "target": "Package",
+              "version": "[24.52.0, )"
+            },
+            "Pepperize.CDK.Github": {
+              "target": "Package",
+              "version": "[0.0.917, )"
+            },
+            "Pulumi.Kubernetes": {
+              "target": "Package",
+              "version": "[4.21.0-alpha.1736909559, )"
+            },
+            "Rhino.Connectors.Azure": {
+              "target": "Package",
+              "version": "[2023.10.21.2, )"
+            },
+            "Rhino.Connectors.Azure.Text": {
+              "target": "Package",
+              "version": "[2023.10.21.2, )"
+            },
+            "Rhino.Connectors.Azure.WebApi": {
+              "target": "Package",
+              "version": "[16.162.29627.1, )"
+            },
+            "System.Runtime.Caching": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "System.Windows.Extensions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "python": {
+              "target": "Package",
+              "version": "[3.14.0-a4, )"
+            }
+          },
+          "imports": [
+            "xamarinios10",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.MacCatalyst": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        },
+        "net9.0-windows10.0.19041": {
+          "targetAlias": "net9.0-windows10.0.19041.0",
+          "dependencies": {
+            "AWS.EncryptionSDK": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "AWSSDK.ApiGatewayV2": {
+              "target": "Package",
+              "version": "[4.0.0-preview.5, )"
+            },
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[4.0.0-preview.5, )"
+            },
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[4.0.0-preview.5, )"
+            },
+            "Amazon.CDK.AWS.ResourceExplorer2": {
+              "target": "Package",
+              "version": "[1.204.0, )"
+            },
+            "AtomicCore.BlockChain.BlockCypherAPI": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Azure.Core": {
+              "target": "Package",
+              "version": "[1.44.1, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.13.2, )"
+            },
+            "Azure.ResourceManager.KubernetesConfiguration": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Azure.ResourceManager.Network": {
+              "target": "Package",
+              "version": "[1.10.0, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.23.0, )"
+            },
+            "Azure.Storage.Common": {
+              "target": "Package",
+              "version": "[12.22.0, )"
+            },
+            "Azure.Storage.Files.Shares": {
+              "target": "Package",
+              "version": "[12.21.0, )"
+            },
+            "AzurePipelinesToGitHubActionsConverter.Core": {
+              "target": "Package",
+              "version": "[1.3.47, )"
+            },
+            "BlockCypher": {
+              "target": "Package",
+              "version": "[1.0.22, )"
+            },
+            "BlockCypher.Api": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "BlockCypher.Net": {
+              "target": "Package",
+              "version": "[0.0.4, )"
+            },
+            "Fable.FirebaseAdmin": {
+              "target": "Package",
+              "version": "[0.5.1, )"
+            },
+            "FeatureFlag.Management.Firebase": {
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "FirebaseAdminCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "FirebaseCoreSDK": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "FirebaseNetAdmin": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "GitHubActionsTestLogger": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "GitHubAppVeyorTest": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "GitHubFlowVersion": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "GithubSharp": {
+              "target": "Package",
+              "version": "[0.0.5.1, )"
+            },
+            "GithubSharp.Core": {
+              "target": "Package",
+              "version": "[0.0.5.1, )"
+            },
+            "GithubSharp.Plugins.All": {
+              "target": "Package",
+              "version": "[0.0.5.1, )"
+            },
+            "Hyperledger.Indy.Sdk": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "Kastle.Providers.Bitcoin.BlockCypher": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "KubeOps.KubernetesClient": {
+              "target": "Package",
+              "version": "[9.1.5, )"
+            },
+            "KubernetesClient": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            },
+            "KubernetesClient.Basic": {
+              "target": "Package",
+              "version": "[12.0.16, )"
+            },
+            "KubernetesClient.Classic": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            },
+            "MTK.Blazor.Generators": {
+              "target": "Package",
+              "version": "[0.2.1, )"
+            },
+            "Microsoft.ApplicationInsights.Kubernetes": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.ApplicationInsights.Kubernetes.HostingStartup": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.AzureAD.UI": {
+              "target": "Package",
+              "version": "[7.0.0-preview.6.22330.3, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.AzureAppServicesIntegration": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.Analyzers": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebView.Maui": {
+              "target": "Package",
+              "version": "[9.0.30, )"
+            },
+            "Microsoft.Azure.SignalR": {
+              "target": "Package",
+              "version": "[1.29.0, )"
+            },
+            "Microsoft.Azure.WebJobs.Core": {
+              "target": "Package",
+              "version": "[3.0.41, )"
+            },
+            "Microsoft.Azure.WebJobs.Host.Storage": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Azure": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.FileProviders.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.FileProviders.Composite": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Primitives": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Graphics.Win2D": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.Maui.Controls": {
+              "target": "Package",
+              "version": "[9.0.30, )"
+            },
+            "Microsoft.VisualStudio.Azure.Kubernetes.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.Win32.SystemEvents": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Windows.SDK.BuildTools": {
+              "target": "Package",
+              "version": "[10.0.26100.1742, )"
+            },
+            "Microsoft.Windows.SDK.Contracts": {
+              "target": "Package",
+              "version": "[10.0.26100.1742, )"
+            },
+            "Microsoft.WindowsAppSDK": {
+              "target": "Package",
+              "version": "[1.7.250109001-experimental2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "NetDaemon.HassModel.Integration": {
+              "target": "Package",
+              "version": "[24.52.0, )"
+            },
+            "Pepperize.CDK.Github": {
+              "target": "Package",
+              "version": "[0.0.917, )"
+            },
+            "Pulumi.Kubernetes": {
+              "target": "Package",
+              "version": "[4.21.0-alpha.1736909559, )"
+            },
+            "Rhino.Connectors.Azure": {
+              "target": "Package",
+              "version": "[2023.10.21.2, )"
+            },
+            "Rhino.Connectors.Azure.Text": {
+              "target": "Package",
+              "version": "[2023.10.21.2, )"
+            },
+            "Rhino.Connectors.Azure.WebApi": {
+              "target": "Package",
+              "version": "[16.162.29627.1, )"
+            },
+            "System.Runtime.Caching": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "System.Windows.Extensions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "python": {
+              "target": "Package",
+              "version": "[3.14.0-a4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.19041.57, 10.0.19041.57]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref.Windows": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "android-arm64": {
+          "#import": []
+        },
+        "android-x64": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

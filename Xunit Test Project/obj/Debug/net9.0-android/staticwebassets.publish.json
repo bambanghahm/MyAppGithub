@@ -1,0 +1,3484 @@
+{
+  "Version": 1,
+  "Hash": "wJAsrf0zwLSIf4kG42sW+NkNncUjQUHFqAT9smpOG9Q=",
+  "Source": "Xunit Test Project",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Xunit Test Project\\wwwroot",
+      "Source": "Xunit Test Project",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\0fkkkkswvt-59gt23fm5q.gz",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "Xunit Test Project#[.{fingerprint=59gt23fm5q}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\Xunit Test Project.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "b7afwdxb40",
+      "Integrity": "ZyVbhf+NBpcJlIblJ2bx3d6uRX+GliZr+7cyBDa3wT0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\Xunit Test Project.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\0h60cjm34v-6gzpyzhau4.gz",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "joqzyw7ssu",
+      "Integrity": "LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\5en0w4mb13-59gt23fm5q.gz",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "Xunit Test Project#[.{fingerprint=59gt23fm5q}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\Xunit Test Project.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "b7afwdxb40",
+      "Integrity": "ZyVbhf+NBpcJlIblJ2bx3d6uRX+GliZr+7cyBDa3wT0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\Xunit Test Project.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\enou5abf27-8inm30yfxf.gz",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fbl5ivwo6k",
+      "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\h0t9e4nb0e-dfwg3nngo1.gz",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=dfwg3nngo1}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ri097gs32u",
+      "Integrity": "HW4h5RgoRA+DKdya5aoR3oOR5H1KmAWoY981wIX+LL8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\0fkkkkswvt-59gt23fm5q.br",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "Xunit Test Project#[.{fingerprint=59gt23fm5q}]?.styles.css.br",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\Xunit Test Project.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "f2zazfb8m8",
+      "Integrity": "Bx/WpE1GEQUqM43QT9vVYn3d9qBN9WoD8nIEUQw5k/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\Xunit Test Project.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\0h60cjm34v-6gzpyzhau4.br",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "2o883p7o84",
+      "Integrity": "4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\5en0w4mb13-59gt23fm5q.br",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "Xunit Test Project#[.{fingerprint=59gt23fm5q}]!.bundle.scp.css.br",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\Xunit Test Project.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "f2zazfb8m8",
+      "Integrity": "Bx/WpE1GEQUqM43QT9vVYn3d9qBN9WoD8nIEUQw5k/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\Xunit Test Project.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\enou5abf27-8inm30yfxf.br",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "b4a1wrn6r6",
+      "Integrity": "e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\h0t9e4nb0e-dfwg3nngo1.br",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=dfwg3nngo1}]?.html.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "ged8l7oon2",
+      "Integrity": "2Cbprei6IQl+KTyX2ui3VkApFgwSrzwOqMxWn66PCss=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\wejgsdsqc0-e5tk7yf482.br",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint=e5tk7yf482}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "ix9166x7gh",
+      "Integrity": "eqlsvw/N8zKnAKc05YDjHT7YIDSUfr5wmQ20CD/lmXo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\wejgsdsqc0-e5tk7yf482.gz",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint=e5tk7yf482}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9sb0w9jnhl",
+      "Integrity": "qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\Xunit Test Project.styles.css",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "Xunit Test Project#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "59gt23fm5q",
+      "Integrity": "d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\Xunit Test Project.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\Xunit Test Project.bundle.scp.css",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "Xunit Test Project#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "59gt23fm5q",
+      "Integrity": "d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\Xunit Test Project.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\app.css",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e5tk7yf482",
+      "Integrity": "bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\index.html",
+      "SourceId": "Xunit Test Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dfwg3nngo1",
+      "Integrity": "KRe4gMLWreZryXe6rj/4IVogwgOpbcZVVMznloGUjdQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\wejgsdsqc0-e5tk7yf482.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000648508431"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1541"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eqlsvw/N8zKnAKc05YDjHT7YIDSUfr5wmQ20CD/lmXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\wejgsdsqc0-e5tk7yf482.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000571102227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.br",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\wejgsdsqc0-e5tk7yf482.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eqlsvw/N8zKnAKc05YDjHT7YIDSUfr5wmQ20CD/lmXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eqlsvw/N8zKnAKc05YDjHT7YIDSUfr5wmQ20CD/lmXo="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\wejgsdsqc0-e5tk7yf482.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\wejgsdsqc0-e5tk7yf482.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000648508431"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1541"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eqlsvw/N8zKnAKc05YDjHT7YIDSUfr5wmQ20CD/lmXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\wejgsdsqc0-e5tk7yf482.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000571102227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bhCZyC/yM2+DaFXr8z25+5MeWfXWqMJNNA4ZLAXbjjU="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css.br",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\wejgsdsqc0-e5tk7yf482.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eqlsvw/N8zKnAKc05YDjHT7YIDSUfr5wmQ20CD/lmXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eqlsvw/N8zKnAKc05YDjHT7YIDSUfr5wmQ20CD/lmXo="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.e5tk7yf482.css.gz",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\wejgsdsqc0-e5tk7yf482.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e5tk7yf482"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\0h60cjm34v-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\0h60cjm34v-6gzpyzhau4.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000057250816"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.br",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\0h60cjm34v-6gzpyzhau4.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\0h60cjm34v-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\0h60cjm34v-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\0h60cjm34v-6gzpyzhau4.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000057250816"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\enou5abf27-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\enou5abf27-8inm30yfxf.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000017661604"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.br",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\enou5abf27-8inm30yfxf.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\enou5abf27-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.br",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\0h60cjm34v-6gzpyzhau4.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\0h60cjm34v-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\enou5abf27-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\enou5abf27-8inm30yfxf.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000017661604"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map.br",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\enou5abf27-8inm30yfxf.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\enou5abf27-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "index.dfwg3nngo1.html",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\h0t9e4nb0e-dfwg3nngo1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002242152466"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "445"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HW4h5RgoRA+DKdya5aoR3oOR5H1KmAWoY981wIX+LL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KRe4gMLWreZryXe6rj/4IVogwgOpbcZVVMznloGUjdQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dfwg3nngo1"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRe4gMLWreZryXe6rj/4IVogwgOpbcZVVMznloGUjdQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.dfwg3nngo1.html",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\h0t9e4nb0e-dfwg3nngo1.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003267973856"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "305"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Cbprei6IQl+KTyX2ui3VkApFgwSrzwOqMxWn66PCss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KRe4gMLWreZryXe6rj/4IVogwgOpbcZVVMznloGUjdQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dfwg3nngo1"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRe4gMLWreZryXe6rj/4IVogwgOpbcZVVMznloGUjdQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.dfwg3nngo1.html",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "869"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KRe4gMLWreZryXe6rj/4IVogwgOpbcZVVMznloGUjdQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dfwg3nngo1"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRe4gMLWreZryXe6rj/4IVogwgOpbcZVVMznloGUjdQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.dfwg3nngo1.html.br",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\h0t9e4nb0e-dfwg3nngo1.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Cbprei6IQl+KTyX2ui3VkApFgwSrzwOqMxWn66PCss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dfwg3nngo1"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Cbprei6IQl+KTyX2ui3VkApFgwSrzwOqMxWn66PCss="
+        }
+      ]
+    },
+    {
+      "Route": "index.dfwg3nngo1.html.gz",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\h0t9e4nb0e-dfwg3nngo1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HW4h5RgoRA+DKdya5aoR3oOR5H1KmAWoY981wIX+LL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dfwg3nngo1"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HW4h5RgoRA+DKdya5aoR3oOR5H1KmAWoY981wIX+LL8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\h0t9e4nb0e-dfwg3nngo1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002242152466"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "445"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HW4h5RgoRA+DKdya5aoR3oOR5H1KmAWoY981wIX+LL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KRe4gMLWreZryXe6rj/4IVogwgOpbcZVVMznloGUjdQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRe4gMLWreZryXe6rj/4IVogwgOpbcZVVMznloGUjdQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\h0t9e4nb0e-dfwg3nngo1.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003267973856"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "305"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Cbprei6IQl+KTyX2ui3VkApFgwSrzwOqMxWn66PCss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KRe4gMLWreZryXe6rj/4IVogwgOpbcZVVMznloGUjdQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRe4gMLWreZryXe6rj/4IVogwgOpbcZVVMznloGUjdQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "869"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KRe4gMLWreZryXe6rj/4IVogwgOpbcZVVMznloGUjdQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRe4gMLWreZryXe6rj/4IVogwgOpbcZVVMznloGUjdQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.br",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\h0t9e4nb0e-dfwg3nngo1.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Cbprei6IQl+KTyX2ui3VkApFgwSrzwOqMxWn66PCss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Cbprei6IQl+KTyX2ui3VkApFgwSrzwOqMxWn66PCss="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\h0t9e4nb0e-dfwg3nngo1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HW4h5RgoRA+DKdya5aoR3oOR5H1KmAWoY981wIX+LL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HW4h5RgoRA+DKdya5aoR3oOR5H1KmAWoY981wIX+LL8="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.59gt23fm5q.bundle.scp.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\5en0w4mb13-59gt23fm5q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000614628150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZyVbhf+NBpcJlIblJ2bx3d6uRX+GliZr+7cyBDa3wT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59gt23fm5q"
+        },
+        {
+          "Name": "label",
+          "Value": "Xunit Test Project.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.59gt23fm5q.bundle.scp.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\5en0w4mb13-59gt23fm5q.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000739644970"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1351"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bx/WpE1GEQUqM43QT9vVYn3d9qBN9WoD8nIEUQw5k/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59gt23fm5q"
+        },
+        {
+          "Name": "label",
+          "Value": "Xunit Test Project.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.59gt23fm5q.bundle.scp.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\Xunit Test Project.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59gt23fm5q"
+        },
+        {
+          "Name": "label",
+          "Value": "Xunit Test Project.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.59gt23fm5q.bundle.scp.css.br",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\5en0w4mb13-59gt23fm5q.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bx/WpE1GEQUqM43QT9vVYn3d9qBN9WoD8nIEUQw5k/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59gt23fm5q"
+        },
+        {
+          "Name": "label",
+          "Value": "Xunit Test Project.bundle.scp.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bx/WpE1GEQUqM43QT9vVYn3d9qBN9WoD8nIEUQw5k/I="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.59gt23fm5q.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\5en0w4mb13-59gt23fm5q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZyVbhf+NBpcJlIblJ2bx3d6uRX+GliZr+7cyBDa3wT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59gt23fm5q"
+        },
+        {
+          "Name": "label",
+          "Value": "Xunit Test Project.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZyVbhf+NBpcJlIblJ2bx3d6uRX+GliZr+7cyBDa3wT0="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.59gt23fm5q.styles.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\0fkkkkswvt-59gt23fm5q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000614628150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZyVbhf+NBpcJlIblJ2bx3d6uRX+GliZr+7cyBDa3wT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59gt23fm5q"
+        },
+        {
+          "Name": "label",
+          "Value": "Xunit Test Project.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.59gt23fm5q.styles.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\0fkkkkswvt-59gt23fm5q.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000739644970"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1351"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bx/WpE1GEQUqM43QT9vVYn3d9qBN9WoD8nIEUQw5k/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59gt23fm5q"
+        },
+        {
+          "Name": "label",
+          "Value": "Xunit Test Project.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.59gt23fm5q.styles.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\Xunit Test Project.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59gt23fm5q"
+        },
+        {
+          "Name": "label",
+          "Value": "Xunit Test Project.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.59gt23fm5q.styles.css.br",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\0fkkkkswvt-59gt23fm5q.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bx/WpE1GEQUqM43QT9vVYn3d9qBN9WoD8nIEUQw5k/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59gt23fm5q"
+        },
+        {
+          "Name": "label",
+          "Value": "Xunit Test Project.styles.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bx/WpE1GEQUqM43QT9vVYn3d9qBN9WoD8nIEUQw5k/I="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.59gt23fm5q.styles.css.gz",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\0fkkkkswvt-59gt23fm5q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZyVbhf+NBpcJlIblJ2bx3d6uRX+GliZr+7cyBDa3wT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59gt23fm5q"
+        },
+        {
+          "Name": "label",
+          "Value": "Xunit Test Project.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZyVbhf+NBpcJlIblJ2bx3d6uRX+GliZr+7cyBDa3wT0="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.bundle.scp.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\5en0w4mb13-59gt23fm5q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000614628150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZyVbhf+NBpcJlIblJ2bx3d6uRX+GliZr+7cyBDa3wT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.bundle.scp.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\5en0w4mb13-59gt23fm5q.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000739644970"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1351"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bx/WpE1GEQUqM43QT9vVYn3d9qBN9WoD8nIEUQw5k/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.bundle.scp.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\Xunit Test Project.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.bundle.scp.css.br",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\5en0w4mb13-59gt23fm5q.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bx/WpE1GEQUqM43QT9vVYn3d9qBN9WoD8nIEUQw5k/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bx/WpE1GEQUqM43QT9vVYn3d9qBN9WoD8nIEUQw5k/I="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\5en0w4mb13-59gt23fm5q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZyVbhf+NBpcJlIblJ2bx3d6uRX+GliZr+7cyBDa3wT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZyVbhf+NBpcJlIblJ2bx3d6uRX+GliZr+7cyBDa3wT0="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.styles.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\0fkkkkswvt-59gt23fm5q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000614628150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZyVbhf+NBpcJlIblJ2bx3d6uRX+GliZr+7cyBDa3wT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.styles.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\0fkkkkswvt-59gt23fm5q.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000739644970"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1351"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bx/WpE1GEQUqM43QT9vVYn3d9qBN9WoD8nIEUQw5k/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.styles.css",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\Xunit Test Project.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d2pfPB3yt2bCdmx3NxLtuhQhngmU176urW3OypQvFgA="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.styles.css.br",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\publish\\0fkkkkswvt-59gt23fm5q.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bx/WpE1GEQUqM43QT9vVYn3d9qBN9WoD8nIEUQw5k/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bx/WpE1GEQUqM43QT9vVYn3d9qBN9WoD8nIEUQw5k/I="
+        }
+      ]
+    },
+    {
+      "Route": "Xunit Test Project.styles.css.gz",
+      "AssetFile": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-android\\compressed\\0fkkkkswvt-59gt23fm5q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZyVbhf+NBpcJlIblJ2bx3d6uRX+GliZr+7cyBDa3wT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 07:38:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZyVbhf+NBpcJlIblJ2bx3d6uRX+GliZr+7cyBDa3wT0="
+        }
+      ]
+    }
+  ]
+}

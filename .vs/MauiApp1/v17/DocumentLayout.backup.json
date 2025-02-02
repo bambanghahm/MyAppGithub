@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D075A1-9059-4EE8-8DEE-E81937707D88}|MauiApp1\\MauiApp1.csproj|c:\\users\\bahma\\source\\repos\\mauiapp1\\mauiapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2D075A1-9059-4EE8-8DEE-E81937707D88}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D075A1-9059-4EE8-8DEE-E81937707D88}|MauiApp1\\MauiApp1.csproj|c:\\users\\bahma\\source\\repos\\mauiapp1\\mauiapp1\\scripts\\analyzeproject.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D2D075A1-9059-4EE8-8DEE-E81937707D88}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\scripts\\analyzeproject.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D075A1-9059-4EE8-8DEE-E81937707D88}|MauiApp1\\MauiApp1.csproj|c:\\users\\bahma\\source\\repos\\mauiapp1\\mauiapp1\\generatedfunctions.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D2D075A1-9059-4EE8-8DEE-E81937707D88}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\generatedfunctions.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bahma\\source\\repos\\MauiApp1\\.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bahma\\AppData\\Roaming\\NuGet\\NuGet.Config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D075A1-9059-4EE8-8DEE-E81937707D88}|MauiApp1\\MauiApp1.csproj|c:\\users\\bahma\\source\\repos\\mauiapp1\\mauiapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D075A1-9059-4EE8-8DEE-E81937707D88}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbf933d5-c685-4357-b334-55e8179b36ad}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a4ad204-3623-4e03-b2d1-6fef94652174}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3b6cad25-49b9-3e5c-9749-0402b635c884}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "analyzeProject.ts",
+              "DocumentMoniker": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1\\Scripts\\analyzeProject.ts",
+              "RelativeDocumentMoniker": "MauiApp1\\Scripts\\analyzeProject.ts",
+              "ToolTip": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1\\Scripts\\analyzeProject.ts",
+              "RelativeToolTip": "MauiApp1\\Scripts\\analyzeProject.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-02T10:10:52.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneratedFunctions.tt",
+              "DocumentMoniker": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1\\GeneratedFunctions.tt",
+              "RelativeDocumentMoniker": "MauiApp1\\GeneratedFunctions.tt",
+              "ToolTip": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1\\GeneratedFunctions.tt",
+              "RelativeToolTip": "MauiApp1\\GeneratedFunctions.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-02T09:23:55.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "MauiApp1\\appsettings.json",
+              "ToolTip": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1\\appsettings.json",
+              "RelativeToolTip": "MauiApp1\\appsettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T13:00:36.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1\\Program.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\MauiApp1\\Program.cs",
+              "RelativeToolTip": "MauiApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:20:08.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NuGet.Config",
+              "DocumentMoniker": "C:\\Users\\bahma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "ToolTip": "C:\\Users\\bahma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-31T11:57:50.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".filenesting.json",
+              "DocumentMoniker": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\.filenesting.json",
+              "RelativeDocumentMoniker": ".filenesting.json",
+              "ToolTip": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\.filenesting.json",
+              "RelativeToolTip": ".filenesting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T08:39:40.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a8e8fad-eb2a-f9f6-abb1-1faa8d7fdec2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f677620d-05fd-48ed-8423-72a12db4deef}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

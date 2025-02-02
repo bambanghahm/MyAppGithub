@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Xunit Test Project.props" />
+</Project>

@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Xunit Test Project.styles.css",
+      "PackagePath": "staticwebassets\\Xunit Test Project.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\bahma\\source\\repos\\MauiApp1\\Xunit Test Project\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.Xunit Test Project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.Xunit Test Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.Xunit Test Project.props",
+      "PackagePath": "build\\Xunit Test Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.Xunit Test Project.props",
+      "PackagePath": "buildMultiTargeting\\Xunit Test Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.Xunit Test Project.props",
+      "PackagePath": "buildTransitive\\Xunit Test Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

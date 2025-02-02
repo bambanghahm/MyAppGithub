@@ -1,0 +1,8 @@
+C:\Users\bahma\source\repos\MauiApp1\MauiApp1\wwwroot\css\app.css
+C:\Users\bahma\source\repos\MauiApp1\MauiApp1\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\bahma\source\repos\MauiApp1\MauiApp1\wwwroot\index.html
+C:\Users\bahma\source\repos\MauiApp1\MauiApp1\wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\index.html
